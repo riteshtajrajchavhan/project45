@@ -48,7 +48,7 @@ n1Img=loadImage("image/next.png");
 }
 
 function setup() {
-  createCanvas(displayWidth,displayHeight);
+  createCanvas(windowWidth,windowHeight);
   
 
 
